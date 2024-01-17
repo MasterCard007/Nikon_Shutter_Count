@@ -8,9 +8,9 @@ setup(
     description='A simple script to read the shutter count from Nikon NEF files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='[Your Name]',
-    author_email='[Your Email]',
-    url='[Your Project URL]',
+    author='MasterCard007',
+    author_email='',
+    url='',
     install_requires=[
         'exifread',
     ],
